@@ -9,6 +9,7 @@ const RESUME = {
 		//email: "",
 		github: 'https://github.com/Mrinank-Bhowmick',
 		linkedin: 'https://linkedin.com/in/mrinank-bhowmick',
+		"twitter/x": 'https://x.com/mrinank110',
 		website: 'https://www.mrinank-ai.tech',
 	},
 	education: {
