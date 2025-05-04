@@ -20,6 +20,7 @@ const RESUME = {
 		cgpa: '8.3/10',
 	},
 	projects: [
+		// personal projects
 		{
 			name: 'Verbalize (AI Chatbot as Service)',
 			description: 'Built a SaaS for LLM-powered chatbot creation, customization and deployment.',
@@ -41,6 +42,7 @@ const RESUME = {
 		},
 	],
 	contributions: [
+		//  open source contributions
 		{
 			project: 'Mastra AI agent framework',
 			details: [
